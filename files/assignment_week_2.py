@@ -17,7 +17,7 @@
 # safe the file
 
 #base function 
-def convert_milk_yield(value):
+def convert_milk_yield_kg_to_lbs(value):
     """
     Descrition: converts milk yield from kilograms to pounds
     input: value (float): The milk yield in kilograms.
@@ -49,7 +49,7 @@ def convert_milk_yield(value):
 
 #Step 12: Submit the link to your forked repository on GitHub for review on Canvas. 
 
-def convert_milk_yield(value):
+def convert_milk_yield_lbs_to_kilo(value):
     """
     Descrition: Converts milk yield from pounds to kilograms.
     input: value (float): The milk yield in pounds.
